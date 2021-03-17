@@ -101,3 +101,126 @@ img {
   font-weight: 600;
   color: #a9a9a9;
 }
+
+@media (max-width: 400px) {
+  .caption {
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 12px;
+    top: 50px;
+    font-family: PT Serif;
+
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+
+    color: #000000;
+  }
+
+  .about h4 {
+    position: relative;
+    width: 117px;
+    height: 27px;
+    right: 70px;
+    top: 66px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+  }
+
+  .about p {
+    position: relative;
+    width: 333px;
+    height: 87px;
+    right: 70px;
+    top: 73px;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+  }
+
+  img {
+    width: 180px;
+  }
+
+  .image-1 {
+    position: absolute;
+    top: 200px;
+    right: 54%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .image-2 {
+    position: relative;
+    top: -100px;
+    left: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .image-3 {
+    position: absolute;
+    top: 550px;
+    right: 54%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .image-4 {
+    position: absolute;
+    top: 600px;
+    left: 55%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .image-5 {
+    position: absolute;
+    top: 750px;
+    right: 54%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .image-6 {
+    position: relative;
+    top: 750px;
+    right: 40%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .name {
+    font-size: 14px;
+  }
+
+  .title {
+    position: relative;
+    top: -185px;
+    left: 60%;
+    font-size: 14px;
+  }
+
+  .image-5 > .title {
+    position: relative;
+    top: -185px;
+  }
+
+  .credit {
+    position: relative;
+
+    top: 650px;
+    left: 30px;
+    font-size: small;
+    font-weight: lighter;
+    margin-bottom: 20px;
+  }
+}
