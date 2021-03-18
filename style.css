@@ -102,7 +102,7 @@ img {
   color: #a9a9a9;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .caption {
     position: absolute;
     width: 278px;
