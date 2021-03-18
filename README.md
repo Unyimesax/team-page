@@ -50,8 +50,8 @@ I can't wait to jump on the next project as I anticipate your honest reviews.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML]
-- [CSS]
+- HTML
+- CSS
 
 ## Features
 
