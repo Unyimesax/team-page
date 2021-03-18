@@ -36,22 +36,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/Unyimesax/team-page/blob/master/screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+This project is a team page of a website displaying the names and roles of the creative team.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This page was built with HTML and CSS. You can view the project in realtime on www.my-team-app.netlify.app.
+Building this project didn't take me as much time to complete as the previous challenge. I guess I'm getting a hang of this thing.
 
-### Built With
+I had issues pushing changes to an existing repoon github from the command line , I later realized that i had to setup my ssh key .
+This challenge is just what i've been looking for.
+
+I can't wait to jump on the next project as I anticipate your honest reviews.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML]
+- [CSS]
 
 ## Features
 
@@ -69,6 +69,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@Unyimesax](https://{github.com/Unyimesax})
+- Twitter [@unyimesax](https://{twitter.com/unyimesax})
